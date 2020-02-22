@@ -34,8 +34,8 @@
       <recent name="C:\Users\Tomek\Desktop\Python tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kodolamacz 3c">
-    <configuration name="Kodołamacz 3b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.number 66">
+    <configuration name="1.4.2.1 Instrukcje warunkowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodołamacz 3b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4.2.1 Instrukcje warunkowe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Kodołamacz 3b1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.4.2.2 Instrukcje warunkowe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,28 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodołamacz 3b1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Kodolamacz 3a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python tasks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Tomek\Desktop\Python tasks\Kodolamacz 3a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.4.2.2 Instrukcje warunkowe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,13 +119,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="number 66" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number 66.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.number 66" />
+        <item itemvalue="Python.1.4.2.2 Instrukcje warunkowe" />
+        <item itemvalue="Python.1.4.2.1 Instrukcje warunkowe" />
         <item itemvalue="Python.kodolamacz 3c" />
         <item itemvalue="Python.Kodolamacz 3b2" />
-        <item itemvalue="Python.Kodołamacz 3b1" />
-        <item itemvalue="Python.Kodołamacz 3b" />
-        <item itemvalue="Python.Kodolamacz 3a" />
       </list>
     </recent_temporary>
   </component>
@@ -172,31 +172,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="857" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1581547991588" />
-    <state width="1658" height="277" key="GridCell.Tab.0.bottom" timestamp="1582066457311">
+    <state width="1658" height="277" key="GridCell.Tab.0.bottom" timestamp="1582409113478">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="1362" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1581979239091" />
-    <state width="1658" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582066457311" />
-    <state width="1658" height="277" key="GridCell.Tab.0.center" timestamp="1582066457311">
+    <state width="1658" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582409113478" />
+    <state width="1658" height="277" key="GridCell.Tab.0.center" timestamp="1582409113478">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="1362" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1581979239091" />
-    <state width="1658" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582066457311" />
-    <state width="1658" height="277" key="GridCell.Tab.0.left" timestamp="1582066457311">
+    <state width="1658" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582409113478" />
+    <state width="1658" height="277" key="GridCell.Tab.0.left" timestamp="1582409113478">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="1362" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1581979239091" />
-    <state width="1658" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582066457311" />
-    <state width="1658" height="277" key="GridCell.Tab.0.right" timestamp="1582066457311">
+    <state width="1658" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582409113478" />
+    <state width="1658" height="277" key="GridCell.Tab.0.right" timestamp="1582409113478">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="1362" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1581979239091" />
-    <state width="1658" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582066457311" />
-    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582058141123">
+    <state width="1658" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582409113478" />
+    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582399488759">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1582045298355" />
-    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582058141123" />
+    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1582399488759" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580771500478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
