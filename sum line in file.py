@@ -7,3 +7,4 @@ def sumLines():
     return sum
 
 print(sumLines())
+
