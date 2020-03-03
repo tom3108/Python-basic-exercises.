@@ -37,6 +37,7 @@ def main ():
     print(FunkcjaKwadratowa(1, 4, 3).rozwiaz())
     print(FunkcjaKwadratowa(0, 4, -3).rozwiaz())
     print(FunkcjaKwadratowa(1, 4, 4).rozwiaz())
+    print(FunkcjaKwadratowa(7, 25, 4).rozwiaz())
     #print(FunkcjaKwadratowa(1, 5, 25).rozwiaz())
 
 
