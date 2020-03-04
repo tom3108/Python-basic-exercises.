@@ -20,6 +20,6 @@ czyAnagram("kraby", "rybak")
 czyAnagram("katar", "krata")
 czyAnagram("kobra", "robak")
 czyAnagram("lampa", "plama")
-czyAnagram("lampa", "plamaa")
+czyAnagram("lampa", "flama")
 
 

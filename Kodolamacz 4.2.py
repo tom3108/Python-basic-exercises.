@@ -12,8 +12,8 @@ class Ulamek():
         return wynik
 
 def main():
-    u1 = Ulamek(3, 4)
-    u2 = Ulamek(2, 6) # nieskrocony
+    u1 = Ulamek(7, 4)
+    u2 = Ulamek(11, 6) # nieskrocony
     u1.wypisz()
     u2.wypisz()
 
