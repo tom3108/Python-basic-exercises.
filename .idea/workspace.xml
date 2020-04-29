@@ -35,8 +35,8 @@
       <recent name="C:\Users\Tomek\Desktop\Python tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Kodolamacz 2 ver2">
-    <configuration name="Kodołamacz 3b1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Kodolamacz 5.2">
+    <configuration name="Kodolamacz 4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kodolamacz again" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodołamacz 3b1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz again/Kodolamacz 4.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,70 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Kodolamacz 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python tasks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz 1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Kodolamacz 2 ver2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python tasks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz 2 ver2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Kodolamacz 3b2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python tasks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz 3b2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Kodolamacz 4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Kodolamacz 4.2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,13 +78,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Kodolamacz 4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kodolamacz again" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz again/Kodolamacz 4.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kodolamacz 5.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kodolamacz again" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz again/Kodolamacz 5.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kodolamacz 5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kodolamacz 5.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Kodolamacz 2 ver2" />
-        <item itemvalue="Python.Kodolamacz 1" />
+        <item itemvalue="Python.Kodolamacz 5.2" />
+        <item itemvalue="Python.Kodolamacz 5.1" />
         <item itemvalue="Python.Kodolamacz 4.2" />
-        <item itemvalue="Python.Kodolamacz 3b2" />
-        <item itemvalue="Python.Kodołamacz 3b1" />
+        <item itemvalue="Python.Kodolamacz 4.2 (1)" />
+        <item itemvalue="Python.Kodolamacz 4.1" />
       </list>
     </recent_temporary>
   </component>
@@ -173,31 +173,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="857" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1581547991588" />
-    <state width="1658" height="276" key="GridCell.Tab.0.bottom" timestamp="1588019088555">
-      <screen x="1920" y="0" width="1680" height="1050" />
+    <state width="1898" height="96" key="GridCell.Tab.0.bottom" timestamp="1588163549217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1583273144517" />
-    <state width="1658" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588019088555" />
-    <state width="1658" height="276" key="GridCell.Tab.0.center" timestamp="1588019088555">
-      <screen x="1920" y="0" width="1680" height="1050" />
+    <state width="1898" height="96" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1588163549217" />
+    <state width="1658" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588152978207" />
+    <state width="1898" height="96" key="GridCell.Tab.0.center" timestamp="1588163549217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="244" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1583273144517" />
-    <state width="1658" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588019088555" />
-    <state width="1658" height="276" key="GridCell.Tab.0.left" timestamp="1588019088555">
-      <screen x="1920" y="0" width="1680" height="1050" />
+    <state width="1898" height="96" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1588163549217" />
+    <state width="1658" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588152978207" />
+    <state width="1898" height="96" key="GridCell.Tab.0.left" timestamp="1588163549217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="244" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1583273144517" />
-    <state width="1658" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588019088555" />
-    <state width="1658" height="276" key="GridCell.Tab.0.right" timestamp="1588019088555">
-      <screen x="1920" y="0" width="1680" height="1050" />
+    <state width="1898" height="96" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1588163549217" />
+    <state width="1658" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588152978207" />
+    <state width="1898" height="96" key="GridCell.Tab.0.right" timestamp="1588163549217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="244" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1583273144517" />
-    <state width="1658" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588019088555" />
-    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1588016703826">
+    <state width="1898" height="96" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1588163549217" />
+    <state width="1658" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588152978207" />
+    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1588148760175">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1583349571265" />
-    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588016703826" />
+    <state x="2504" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1588148760175" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580771500478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -30,5 +30,5 @@ while parametr:
 
     if again == "t":
         parametr = True
-    else:
+    elif again == "n":
         parametr = False
